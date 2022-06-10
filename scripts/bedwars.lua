@@ -1,7 +1,5 @@
 --[[
-the reason i am releasing sytronight with source because to proof i am crediting people script that i borrowed
-idc if you skid this just credits me or the original owner of the script you copy
-obfuscate is gay
+i made sytronight, enjoy the source code skids, now fuck you bitch vamp idiot gay dick sucker
 ]]
 if not isfile("KavoConfig.JSON") then writefile("SytroNightConfig.JSON","{}")
 end
