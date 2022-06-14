@@ -1,4 +1,4 @@
---[[local Kavo = {}
+
 
 local tween = game:GetService("TweenService")
 local tweeninfo = TweenInfo.new
@@ -2643,3 +2643,4 @@ function Kavo.CreateLib(kavName, themeList)
     return Tabs
 end
 return Kavo
+game.Players.LocalPlayer:Kick("Unsubscribe Jnhh")
