@@ -2,6 +2,7 @@
 Made by svamp
 abandoned script
 feel free to skid it just creds svamp or the real owner of script he borrowed
+and the lib is fix now
 ]]
 if not isfile("KavoConfig.JSON") then writefile("SytroNightConfig.JSON","{}")
 end
@@ -49,7 +50,7 @@ local colors = {
 	TextColor = Color3.fromRGB(255,255,255),
 	ElementColor = Color3.fromRGB(20, 20, 20)
 }
-local kavoUi = loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandLittleBrother/SytroNight4ROBLOX/main/libraries/kavo.lua"))()
+local kavoUi = loadstring(game:HttpGet("https://raw.githubusercontent.com/NTDCore/NightBedCommunityOfficial/main/Theme/Night/bed/lol/XD/Chill/long/kavo.lua"))()
 local window = kavoUi.CreateLib("SytroNight V1.2", "BloodTheme")
 local entity = loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/Libraries/entityHandler.lua", true))()
 
